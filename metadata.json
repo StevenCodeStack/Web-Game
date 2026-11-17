@@ -1,0 +1,6 @@
+{
+  "name": "Prism Arena",
+  "description": "Multiplayer first-person 3D laser tag arena with real-time WebSocket physics, Cannon.js server-side collision detection, custom map builder, matchmaking, and team voice chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
